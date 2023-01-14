@@ -11,7 +11,7 @@
 点击“刷新OAuth令牌，自动进入Github的登录授权界面，点击授权即可登录”
 #拉取远程仓库
 点击clone，开始进行拉取
-原路径填 git@github.com:Frocir/TikSound-backend.git，这是我们仓库的SSH密钥
+原路径填 https://github.com/Frocir/TikSound-backend.git，这是我们仓库的路径
 目标路径在你的电脑中任意位置新建一个文件夹即可，拉取之后将会下载到其中
 然后点击克隆，拉取完成
 #修改并提交
