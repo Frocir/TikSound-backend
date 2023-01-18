@@ -1,0 +1,16 @@
+server:
+  name: TikSound-backend
+  addr: 8080
+  mode: dev
+mysql:
+  host:
+  username:
+  password:
+  database:
+  max-idle-connections:
+  max-open-connections:
+  max-connection-life-time:
+  log-level:
+
+log:
+jwt:
